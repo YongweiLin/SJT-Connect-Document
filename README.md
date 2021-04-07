@@ -1,4 +1,6 @@
-## project-team-15
+This repository contains the documents of the SJT-Connect project. The codebase has been handed over to St. James Town. Source code is private and not included in this repository.
+
+
 ## SJT Connect (St James Town Connect)
 CSC301, Winter 2019, team project.
 
